@@ -1,4 +1,4 @@
-
+//heelo
 function createParkir(slot) {
     var parkir = [, "B30", , "A51"];
     var inputData = "A51";
